@@ -1,0 +1,14 @@
+arguments
+
+debug
+target directory
+scan directory
+-vertical
+
+
+File format
+------------
+name:
+hash:
+date_added:
+blacklist:
