@@ -10,10 +10,8 @@ edition = "2021"
 [dependencies]
 chrono = { version = "0.4.26", features = ["clock"] }
 clap = { version = "4.3.9", features = ["derive"] }
-env_logger = "0.10.0"
 filetime_creation = "0.1.5"
 function_name = "0.3.0"
-hex-literal = "0.4.1"
 json = "0.12.4"
 lazy_static = "1.4.0"
 log = "0.4.19"
@@ -21,7 +19,6 @@ log4rs = "1.2.0"
 md5 = "0.7.0"
 reqwest = { version = "0.11.18", features = ["blocking"] }
 scraper = "0.16.0"
-serde-value = "0.7.0"
 
 [profile.dev]
 opt-level = 0
